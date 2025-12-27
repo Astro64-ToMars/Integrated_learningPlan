@@ -34,3 +34,7 @@ You can rewind back to any commit in the commit history you want using Git.
 - Modified: Changes are made to a folder, but they are not committed. They are modified, but are not ready to be made a "save point"
 - Staging: Stores the files which are changed and basically says, "I want the files in this area to be taken a snapshot of."
 - Commited: Any files in the "staging area" are added to the commit section when committed.
+
+**Git Commands:** [Git Commands.pdf](https://github.com/user-attachments/files/24355568/Git.Commands.pdf)  
+
+---
