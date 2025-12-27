@@ -60,6 +60,23 @@ $${speed = \frac{distance}{time}}$$
 
 Speed is equal to the distance travelled, divided by the time taken to travel that distance.
 
+**Displacement:** An objects change in position. Displacement is a vector value, with both magnitude and direction. In 1 dimension, displacement is always a straight vector representing the movement of an object *in a straight line*.
+
+$${\Delta\vec{x} = \vec{x} - \vec{x}_0}$$
+
+In this formula, final (current) position - initial position is represented. It states that displacement is the change in an object's position, or, equivalently the difference between the object's final and initial position. Keep in mind, change in position also has a direction quantity. 
+
+**Note:** $\Delta$ represents the *change* in a variable. When it is placed in front of a variable, it refers to the difference between the final value and initial value of that variable.
+
+### What is the difference between displacement and distance travelled?
+
+Displacement takes into account the direction an object moves. For example, if an object moves 3 units to the right, but then turns back and moves 1 unit to the left again, its displacement will be 2 units to the right. However, left moving vector will also be added to the final "distance travelled" vector. This doesn't occur in the final "displacement" vector which subtracts both the right vector and the left vector.
+
 ### What is the difference between speed and velocity?
 
 Speed is the measure of *distance* which doesn't contain the element of direction. Speed only has a magnitude, or is a scalar quantity, but velocity contains direction. In conclusion, speed is just velocity without direction. Velocity is the measure of "the change in position" while speed is the measure of the "change in distance", and distance doesn't change based on direction, while position does.
+
+### Common Mistakes and Misconceptions
+- **Swapping the initial and final positions in the displacement equations.** A lot of times, the intial positon is put first in the displacement equation which gives the incorrect displacement vector.
+- **Distance and displacement are not "different names for the same quantity"**. They are different constants. Changes in direction causes displacement to decrease, but causes "distance travelled" to continue increasing.
+- **The "correct" coordinate system:** All coordinate systems are valid, so any can be chosen. The reference point and coordinate system will affect the numbers in the calculation, but as long as the same coordinate system is used throughout, the final meaning of the answwer will not change. Reference frames make physics very flexible.
