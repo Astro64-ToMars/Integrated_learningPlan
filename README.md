@@ -1,7 +1,5 @@
-# Christmas-Break-Sprint-Plan
+# Integrated Learning Plan
 
-**Date:** 12/26/2025 to 01/04/2025
+**Topics:** Math, Physics, Computer Science, Aerospace Engineering
 
-**Topics:** Math, Physics, Calculus, Linear Algebra, Trigonometry, LaTeX, GitHub
-
-A 10-day high-intensity roadmap combining competitive math mastery, AP Physics certification, and visual calculus foundations.
+A high-intensity roadmap combining competitive math mastery, Advanced Physics, Aerospace Engineering System Creation, and High Performance Computing/Machine Learning Models
