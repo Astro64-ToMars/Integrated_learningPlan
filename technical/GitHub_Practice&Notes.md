@@ -21,7 +21,7 @@ Tools used: Net Ninja,
 - touch <file?: Creates a new, empty file
 - rm <file>: Removes (deletes the file)
 
-Repositories (Repo's): 
+**Repositories (Repo's):** 
 - Container for a project you want to track with Git
 - Can have many different repo's for many different projects on our computer
 - The contents of all repo's are tracked by Git
