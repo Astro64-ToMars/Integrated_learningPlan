@@ -10,6 +10,8 @@
 1. Define the most fundemental, measurable quantities in the universe
 2. Find *relationships* between those fundemental quantities
 
+**Vecors and scalars are necessary to do this.**
+
 **Scalars:** Quantities with only magnitude (size), but no direction. Some examples of scalar quantities are:
 - Mass
 - Distance
